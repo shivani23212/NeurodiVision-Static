@@ -25,7 +25,7 @@ function popUp (url, windowName) {
 }
 
 questions_btn.onclick = function() {
-    popUp('../modal.html', 'popup');
+    popUp('https://shivani23212.github.io/NeurodiVision-Static/modal', 'popup');
 }
 
 overlay_btn.onclick = function() {
