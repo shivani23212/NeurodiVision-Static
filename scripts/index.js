@@ -25,7 +25,7 @@ function popUp (url, windowName) {
 }
 
 questions_btn.onclick = function() {
-    popUp('http://localhost:5000/modal', 'popup');
+    popUp('../modal.html', 'popup');
 }
 
 overlay_btn.onclick = function() {
